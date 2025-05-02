@@ -17,7 +17,7 @@ export default function Home() {
       </View>
       <View className="mx-4 pt-12">
         <Text className=" text-3xl text-white">Hi Ghulam</Text>
-        <Text className="text-white">6 Tasks are pending</Text>
+        <Text className="text-white"> 6 Tasks are pending</Text>
 
         <View className=" bg-light-primary rounded-lg p-4 mt-9">
           <View className=" gap-3">
